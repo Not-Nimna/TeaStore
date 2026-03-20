@@ -1,0 +1,9 @@
+Date: March 19, 2026
+Script: teastore_browse_nogui.jmx
+Users: 5
+Duration: about 5 minutes
+Result file: results\smoke\smoke_browse_5users.jtl
+Error rate observed in console: 0%
+Avg response time observed in console: about 13 to 15 ms
+TeaStore reachable after run: Yes
+Observed issues: Initial infrastructure setup issue due to database port conflict on 3306; resolved before smoke test. No issues during the smoke test itself.

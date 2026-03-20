@@ -1,0 +1,1100 @@
+==== 03/19/2026 23:56:36 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   17.63%    432.3MiB / 6.701GiB   6.30%     10.2MB / 6.34MB   0B / 0B     173
+f42602c57020   docker-image-1         38.70%    527.9MiB / 6.701GiB   7.69%     48.3MB / 1.75GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.50%     290.4MiB / 6.701GiB   4.23%     5.14MB / 3.41MB   0B / 0B     57
+5891de299610   docker-webui-1         94.33%    704.8MiB / 6.701GiB   10.27%    1.96GB / 2.33GB   0B / 0B     439
+6f48726ffe26   docker-db-1            3.92%     100.4MiB / 6.701GiB   1.46%     11.8MB / 47.5MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   72.89%    545.5MiB / 6.701GiB   7.95%     144MB / 140MB     0B / 0B     67
+d01c7b827732   docker-auth-1          42.71%    490MiB / 6.701GiB     7.14%     61MB / 43.5MB     0B / 0B     213
+==== 03/19/2026 23:56:44 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   9.54%     432.3MiB / 6.701GiB   6.30%     10.7MB / 6.64MB   0B / 0B     173
+f42602c57020   docker-image-1         55.80%    527.8MiB / 6.701GiB   7.69%     51MB / 1.85GB     0B / 0B     208
+79d8da82cd07   docker-registry-1      0.49%     290.4MiB / 6.701GiB   4.23%     5.16MB / 3.42MB   0B / 0B     57
+5891de299610   docker-webui-1         201.26%   705.7MiB / 6.701GiB   10.28%    2.08GB / 2.47GB   0B / 0B     440
+6f48726ffe26   docker-db-1            6.08%     100.4MiB / 6.701GiB   1.46%     12.4MB / 50.1MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   92.79%    545.6MiB / 6.701GiB   7.95%     152MB / 148MB     0B / 0B     67
+d01c7b827732   docker-auth-1          59.26%    490.5MiB / 6.701GiB   7.15%     64.4MB / 46MB     0B / 0B     215
+==== 03/19/2026 23:56:52 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.32%    437.8MiB / 6.701GiB   6.38%     11.2MB / 6.91MB   0B / 0B     173
+f42602c57020   docker-image-1         66.23%    528.3MiB / 6.701GiB   7.70%     53.9MB / 1.96GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.70%     290.4MiB / 6.701GiB   4.23%     5.17MB / 3.43MB   0B / 0B     57
+5891de299610   docker-webui-1         231.47%   705.3MiB / 6.701GiB   10.28%    2.2GB / 2.62GB    0B / 0B     440
+6f48726ffe26   docker-db-1            6.64%     100.4MiB / 6.701GiB   1.46%     13MB / 52.9MB     0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   108.27%   545.6MiB / 6.701GiB   7.95%     160MB / 157MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.34%    495MiB / 6.701GiB     7.21%     68.1MB / 48.6MB   0B / 0B     215
+==== 03/19/2026 23:57:00 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.43%    437.8MiB / 6.701GiB   6.38%     12MB / 7.33MB     0B / 0B     173
+f42602c57020   docker-image-1         65.51%    528MiB / 6.701GiB     7.69%     57.4MB / 2.08GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.61%     290.4MiB / 6.701GiB   4.23%     5.19MB / 3.44MB   0B / 0B     57
+5891de299610   docker-webui-1         225.35%   705.5MiB / 6.701GiB   10.28%    2.35GB / 2.79GB   0B / 0B     440
+6f48726ffe26   docker-db-1            6.79%     100.4MiB / 6.701GiB   1.46%     13.8MB / 56.2MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   112.26%   546MiB / 6.701GiB     7.96%     171MB / 167MB     0B / 0B     67
+d01c7b827732   docker-auth-1          71.43%    489.6MiB / 6.701GiB   7.13%     71.9MB / 51.2MB   0B / 0B     215
+==== 03/19/2026 23:57:09 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   10.67%    437.9MiB / 6.701GiB   6.38%     12.6MB / 7.69MB   0B / 0B     173
+f42602c57020   docker-image-1         64.78%    528.1MiB / 6.701GiB   7.70%     61.1MB / 2.22GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.52%     290.4MiB / 6.701GiB   4.23%     5.2MB / 3.45MB    0B / 0B     57
+5891de299610   docker-webui-1         221.19%   706.1MiB / 6.701GiB   10.29%    2.5GB / 2.97GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.58%     100.4MiB / 6.701GiB   1.46%     14.6MB / 59.9MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   100.97%   546MiB / 6.701GiB     7.96%     182MB / 178MB     0B / 0B     67
+d01c7b827732   docker-auth-1          70.43%    489.5MiB / 6.701GiB   7.13%     76.6MB / 54.6MB   0B / 0B     215
+==== 03/19/2026 23:57:17 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.15%    438.8MiB / 6.701GiB   6.39%     13.4MB / 8.13MB   0B / 0B     173
+f42602c57020   docker-image-1         64.30%    528.5MiB / 6.701GiB   7.70%     64.2MB / 2.33GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.62%     290.4MiB / 6.701GiB   4.23%     5.21MB / 3.46MB   0B / 0B     57
+5891de299610   docker-webui-1         219.30%   706.2MiB / 6.701GiB   10.29%    2.65GB / 3.14GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.80%     100.4MiB / 6.701GiB   1.46%     15.4MB / 63.2MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   104.40%   546.1MiB / 6.701GiB   7.96%     192MB / 188MB     0B / 0B     67
+d01c7b827732   docker-auth-1          71.48%    493.9MiB / 6.701GiB   7.20%     81.7MB / 58.2MB   0B / 0B     215
+==== 03/19/2026 23:57:25 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   21.05%    438.8MiB / 6.701GiB   6.39%     14MB / 8.48MB     0B / 0B     173
+f42602c57020   docker-image-1         74.59%    528.5MiB / 6.701GiB   7.70%     67.9MB / 2.47GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.41%     290.4MiB / 6.701GiB   4.23%     5.23MB / 3.47MB   0B / 0B     57
+5891de299610   docker-webui-1         229.59%   706.5MiB / 6.701GiB   10.30%    2.78GB / 3.3GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.96%     100.4MiB / 6.701GiB   1.46%     16.1MB / 66.4MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   112.17%   546.4MiB / 6.701GiB   7.96%     202MB / 197MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.58%    493.8MiB / 6.701GiB   7.20%     85.8MB / 61.1MB   0B / 0B     215
+==== 03/19/2026 23:57:32 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.42%    432.5MiB / 6.701GiB   6.30%     14.7MB / 8.87MB   0B / 0B     173
+f42602c57020   docker-image-1         69.94%    528.4MiB / 6.701GiB   7.70%     71.5MB / 2.6GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.36%     290.4MiB / 6.701GiB   4.23%     5.24MB / 3.48MB   0B / 0B     57
+5891de299610   docker-webui-1         229.26%   706.9MiB / 6.701GiB   10.30%    2.91GB / 3.45GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.71%     100.4MiB / 6.701GiB   1.46%     16.9MB / 69.8MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   109.44%   546.1MiB / 6.701GiB   7.96%     213MB / 208MB     0B / 0B     67
+d01c7b827732   docker-auth-1          80.02%    494MiB / 6.701GiB     7.20%     90.4MB / 64.3MB   0B / 0B     215
+==== 03/19/2026 23:57:40 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.79%    432.5MiB / 6.701GiB   6.30%     15.3MB / 9.22MB   0B / 0B     173
+f42602c57020   docker-image-1         57.53%    528.3MiB / 6.701GiB   7.70%     75.2MB / 2.74GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.38%     290.4MiB / 6.701GiB   4.23%     5.26MB / 3.49MB   0B / 0B     57
+5891de299610   docker-webui-1         207.68%   707.1MiB / 6.701GiB   10.30%    3.08GB / 3.66GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.42%     100.4MiB / 6.701GiB   1.46%     17.7MB / 73.4MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   105.61%   546.3MiB / 6.701GiB   7.96%     222MB / 217MB     0B / 0B     67
+d01c7b827732   docker-auth-1          72.10%    493.8MiB / 6.701GiB   7.20%     94.4MB / 67.2MB   0B / 0B     215
+==== 03/19/2026 23:57:48 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   24.55%    439.9MiB / 6.701GiB   6.41%     16.1MB / 9.67MB   0B / 0B     173
+f42602c57020   docker-image-1         63.41%    528.6MiB / 6.701GiB   7.70%     78.8MB / 2.86GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.48%     290.4MiB / 6.701GiB   4.23%     5.27MB / 3.5MB    0B / 0B     57
+5891de299610   docker-webui-1         230.44%   707.7MiB / 6.701GiB   10.31%    3.23GB / 3.83GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.76%     100.4MiB / 6.701GiB   1.46%     18.5MB / 76.8MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   102.21%   546.5MiB / 6.701GiB   7.96%     233MB / 227MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.22%    493.9MiB / 6.701GiB   7.20%     99.6MB / 70.8MB   0B / 0B     215
+==== 03/19/2026 23:57:56 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.56%    440MiB / 6.701GiB     6.41%     16.8MB / 10MB     0B / 0B     173
+f42602c57020   docker-image-1         71.82%    528.6MiB / 6.701GiB   7.70%     82.2MB / 2.99GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.68%     290.4MiB / 6.701GiB   4.23%     5.28MB / 3.51MB   0B / 0B     57
+5891de299610   docker-webui-1         238.21%   708.1MiB / 6.701GiB   10.32%    3.37GB / 4GB      0B / 0B     439
+6f48726ffe26   docker-db-1            7.12%     100.4MiB / 6.701GiB   1.46%     19.3MB / 80.1MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.69%   546.4MiB / 6.701GiB   7.96%     244MB / 239MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.67%    493.9MiB / 6.701GiB   7.20%     104MB / 73.9MB    0B / 0B     215
+==== 03/19/2026 23:58:03 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.84%    439.9MiB / 6.701GiB   6.41%     17.5MB / 10.4MB   0B / 0B     173
+f42602c57020   docker-image-1         71.71%    528.5MiB / 6.701GiB   7.70%     85.8MB / 3.12GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.57%     290.4MiB / 6.701GiB   4.23%     5.3MB / 3.52MB    0B / 0B     57
+5891de299610   docker-webui-1         240.26%   708.6MiB / 6.701GiB   10.33%    3.51GB / 4.17GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.14%     100.4MiB / 6.701GiB   1.46%     20.1MB / 83.5MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   113.82%   546.4MiB / 6.701GiB   7.96%     255MB / 249MB     0B / 0B     67
+d01c7b827732   docker-auth-1          82.37%    493.9MiB / 6.701GiB   7.20%     108MB / 77.1MB    0B / 0B     215
+==== 03/19/2026 23:58:11 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.09%    440MiB / 6.701GiB     6.41%     18.2MB / 10.8MB   0B / 0B     173
+f42602c57020   docker-image-1         66.94%    528.5MiB / 6.701GiB   7.70%     89.3MB / 3.25GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.41%     290.4MiB / 6.701GiB   4.23%     5.31MB / 3.52MB   0B / 0B     57
+5891de299610   docker-webui-1         235.18%   708.8MiB / 6.701GiB   10.33%    3.66GB / 4.34GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.80%     100.4MiB / 6.701GiB   1.46%     20.8MB / 86.9MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.16%   546.6MiB / 6.701GiB   7.97%     264MB / 258MB     0B / 0B     67
+d01c7b827732   docker-auth-1          71.44%    494MiB / 6.701GiB     7.20%     113MB / 80.1MB    0B / 0B     215
+==== 03/19/2026 23:58:19 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.97%    432.7MiB / 6.701GiB   6.31%     18.8MB / 11.2MB   0B / 0B     173
+f42602c57020   docker-image-1         68.42%    528.9MiB / 6.701GiB   7.71%     92.5MB / 3.37GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.57%     290.4MiB / 6.701GiB   4.23%     5.33MB / 3.54MB   0B / 0B     57
+5891de299610   docker-webui-1         225.92%   709.6MiB / 6.701GiB   10.34%    3.79GB / 4.5GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.55%     100.4MiB / 6.701GiB   1.46%     21.6MB / 90MB     0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   104.99%   548.6MiB / 6.701GiB   7.99%     275MB / 269MB     0B / 0B     67
+d01c7b827732   docker-auth-1          67.81%    495.5MiB / 6.701GiB   7.22%     116MB / 82.7MB    0B / 0B     215
+==== 03/19/2026 23:58:27 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   17.27%    438.7MiB / 6.701GiB   6.39%     19.3MB / 11.5MB   0B / 0B     173
+f42602c57020   docker-image-1         75.54%    528.8MiB / 6.701GiB   7.71%     95.1MB / 3.46GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.81%     290.4MiB / 6.701GiB   4.23%     5.34MB / 3.54MB   0B / 0B     57
+5891de299610   docker-webui-1         242.98%   709.5MiB / 6.701GiB   10.34%    3.9GB / 4.63GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.87%     100.4MiB / 6.701GiB   1.46%     22.1MB / 92.5MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.64%   548.9MiB / 6.701GiB   8.00%     283MB / 276MB     0B / 0B     67
+d01c7b827732   docker-auth-1          81.58%    495.6MiB / 6.701GiB   7.22%     120MB / 85MB      0B / 0B     215
+==== 03/19/2026 23:58:36 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   27.62%    438.7MiB / 6.701GiB   6.39%     20MB / 11.8MB     0B / 0B     173
+f42602c57020   docker-image-1         64.20%    528.8MiB / 6.701GiB   7.71%     98.7MB / 3.59GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.74%     290.4MiB / 6.701GiB   4.23%     5.35MB / 3.55MB   0B / 0B     57
+5891de299610   docker-webui-1         227.80%   710.3MiB / 6.701GiB   10.35%    4.04GB / 4.8GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.77%     100.4MiB / 6.701GiB   1.46%     22.9MB / 95.9MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   106.30%   549MiB / 6.701GiB     8.00%     293MB / 287MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.08%    494.3MiB / 6.701GiB   7.20%     125MB / 88.5MB    0B / 0B     215
+==== 03/19/2026 23:58:43 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.21%    432.8MiB / 6.701GiB   6.31%     20.6MB / 12.2MB   0B / 0B     173
+f42602c57020   docker-image-1         68.71%    528.9MiB / 6.701GiB   7.71%     102MB / 3.71GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.47%     290.4MiB / 6.701GiB   4.23%     5.37MB / 3.56MB   0B / 0B     57
+5891de299610   docker-webui-1         236.01%   710.1MiB / 6.701GiB   10.35%    4.17GB / 4.95GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.74%     100.4MiB / 6.701GiB   1.46%     23.6MB / 98.9MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.11%   548.9MiB / 6.701GiB   8.00%     303MB / 296MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.75%    494.4MiB / 6.701GiB   7.20%     129MB / 91.3MB    0B / 0B     215
+==== 03/19/2026 23:58:51 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   67.51%    439.3MiB / 6.701GiB   6.40%     21.1MB / 12.5MB   0B / 0B     173
+f42602c57020   docker-image-1         55.01%    528.9MiB / 6.701GiB   7.71%     105MB / 3.82GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.32%     290.4MiB / 6.701GiB   4.23%     5.38MB / 3.57MB   0B / 0B     57
+5891de299610   docker-webui-1         213.04%   729.4MiB / 6.701GiB   10.63%    4.3GB / 5.11GB    0B / 0B     440
+6f48726ffe26   docker-db-1            6.12%     100.4MiB / 6.701GiB   1.46%     24.2MB / 102MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.21%   548.8MiB / 6.701GiB   8.00%     312MB / 305MB     0B / 0B     67
+d01c7b827732   docker-auth-1          65.12%    494.3MiB / 6.701GiB   7.20%     132MB / 93.8MB    0B / 0B     215
+==== 03/19/2026 23:58:59 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.17%    432.9MiB / 6.701GiB   6.31%     21.9MB / 12.9MB   0B / 0B     173
+f42602c57020   docker-image-1         75.68%    528.8MiB / 6.701GiB   7.71%     108MB / 3.95GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.37%     290.4MiB / 6.701GiB   4.23%     5.4MB / 3.58MB    0B / 0B     57
+5891de299610   docker-webui-1         234.04%   730.8MiB / 6.701GiB   10.65%    4.45GB / 5.28GB   0B / 0B     440
+6f48726ffe26   docker-db-1            7.08%     100.4MiB / 6.701GiB   1.46%     25MB / 105MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   116.63%   549.1MiB / 6.701GiB   8.00%     322MB / 315MB     0B / 0B     67
+d01c7b827732   docker-auth-1          83.29%    494.3MiB / 6.701GiB   7.20%     136MB / 96.7MB    0B / 0B     215
+==== 03/19/2026 23:59:07 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.23%    432.9MiB / 6.701GiB   6.31%     22.6MB / 13.3MB   0B / 0B     173
+f42602c57020   docker-image-1         64.42%    528.9MiB / 6.701GiB   7.71%     112MB / 4.08GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.96%     290.4MiB / 6.701GiB   4.23%     5.41MB / 3.59MB   0B / 0B     57
+5891de299610   docker-webui-1         216.76%   731.3MiB / 6.701GiB   10.66%    4.59GB / 5.45GB   0B / 0B     440
+6f48726ffe26   docker-db-1            6.90%     100.4MiB / 6.701GiB   1.46%     25.7MB / 108MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   104.18%   548.9MiB / 6.701GiB   8.00%     333MB / 325MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.18%    500.1MiB / 6.701GiB   7.29%     141MB / 100MB     0B / 0B     215
+==== 03/19/2026 23:59:15 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.48%    432.9MiB / 6.701GiB   6.31%     23.1MB / 13.6MB   0B / 0B     173
+f42602c57020   docker-image-1         67.34%    526.8MiB / 6.701GiB   7.68%     115MB / 4.19GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      4.68%     290.4MiB / 6.701GiB   4.23%     5.42MB / 3.6MB    0B / 0B     57
+5891de299610   docker-webui-1         230.96%   712.5MiB / 6.701GiB   10.38%    4.71GB / 5.6GB    0B / 0B     440
+6f48726ffe26   docker-db-1            7.15%     100.4MiB / 6.701GiB   1.46%     26.5MB / 111MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.61%   548.9MiB / 6.701GiB   8.00%     342MB / 334MB     0B / 0B     67
+d01c7b827732   docker-auth-1          79.59%    490.1MiB / 6.701GiB   7.14%     145MB / 103MB     0B / 0B     215
+==== 03/19/2026 23:59:22 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.51%    432.9MiB / 6.701GiB   6.31%     23.8MB / 14MB     0B / 0B     173
+f42602c57020   docker-image-1         67.77%    526.9MiB / 6.701GiB   7.68%     118MB / 4.3GB     0B / 0B     208
+79d8da82cd07   docker-registry-1      0.65%     290.4MiB / 6.701GiB   4.23%     5.44MB / 3.61MB   0B / 0B     57
+5891de299610   docker-webui-1         219.91%   712.3MiB / 6.701GiB   10.38%    4.85GB / 5.75GB   0B / 0B     440
+6f48726ffe26   docker-db-1            6.61%     100.4MiB / 6.701GiB   1.46%     27.1MB / 114MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   108.72%   548.9MiB / 6.701GiB   8.00%     351MB / 343MB     0B / 0B     67
+d01c7b827732   docker-auth-1          70.00%    492MiB / 6.701GiB     7.17%     149MB / 106MB     0B / 0B     215
+==== 03/19/2026 23:59:30 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   10.29%    438.8MiB / 6.701GiB   6.39%     24.3MB / 14.2MB   0B / 0B     173
+f42602c57020   docker-image-1         64.04%    527MiB / 6.701GiB     7.68%     121MB / 4.42GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.4MiB / 6.701GiB   4.23%     5.45MB / 3.62MB   0B / 0B     57
+5891de299610   docker-webui-1         217.87%   712.2MiB / 6.701GiB   10.38%    4.98GB / 5.91GB   0B / 0B     440
+6f48726ffe26   docker-db-1            6.57%     100.4MiB / 6.701GiB   1.46%     27.9MB / 118MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   103.05%   549MiB / 6.701GiB     8.00%     360MB / 352MB     0B / 0B     67
+d01c7b827732   docker-auth-1          69.07%    492.6MiB / 6.701GiB   7.18%     153MB / 109MB     0B / 0B     215
+==== 03/19/2026 23:59:38 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.97%    438.9MiB / 6.701GiB   6.40%     25MB / 14.6MB     0B / 0B     173
+f42602c57020   docker-image-1         71.75%    527MiB / 6.701GiB     7.68%     124MB / 4.53GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.49%     290.4MiB / 6.701GiB   4.23%     5.46MB / 3.63MB   0B / 0B     57
+5891de299610   docker-webui-1         231.19%   732.9MiB / 6.701GiB   10.68%    5.1GB / 6.06GB    0B / 0B     440
+6f48726ffe26   docker-db-1            6.87%     100.4MiB / 6.701GiB   1.46%     28.6MB / 121MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.01%   549.1MiB / 6.701GiB   8.00%     370MB / 361MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.85%    492.8MiB / 6.701GiB   7.18%     157MB / 112MB     0B / 0B     215
+==== 03/19/2026 23:59:46 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.40%    438.9MiB / 6.701GiB   6.40%     25.6MB / 15MB     0B / 0B     173
+f42602c57020   docker-image-1         66.96%    526.9MiB / 6.701GiB   7.68%     127MB / 4.65GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.41%     290.4MiB / 6.701GiB   4.23%     5.48MB / 3.64MB   0B / 0B     57
+5891de299610   docker-webui-1         222.01%   732.9MiB / 6.701GiB   10.68%    5.23GB / 6.21GB   0B / 0B     440
+6f48726ffe26   docker-db-1            7.00%     100.4MiB / 6.701GiB   1.46%     29.3MB / 124MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.00%   549.1MiB / 6.701GiB   8.00%     379MB / 370MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.42%    492.8MiB / 6.701GiB   7.18%     161MB / 114MB     0B / 0B     215
+==== 03/19/2026 23:59:53 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.71%    433.1MiB / 6.701GiB   6.31%     26.2MB / 15.3MB   0B / 0B     173
+f42602c57020   docker-image-1         73.74%    526.9MiB / 6.701GiB   7.68%     131MB / 4.77GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.45%     290.4MiB / 6.701GiB   4.23%     5.49MB / 3.65MB   0B / 0B     57
+5891de299610   docker-webui-1         223.43%   712.3MiB / 6.701GiB   10.38%    5.37GB / 6.37GB   0B / 0B     440
+6f48726ffe26   docker-db-1            7.01%     100.4MiB / 6.701GiB   1.46%     30.1MB / 127MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   112.61%   549MiB / 6.701GiB     8.00%     389MB / 380MB     0B / 0B     67
+d01c7b827732   docker-auth-1          78.03%    492.9MiB / 6.701GiB   7.18%     165MB / 117MB     0B / 0B     215
+==== 03/20/2026 00:00:01 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.77%    439.1MiB / 6.701GiB   6.40%     26.9MB / 15.7MB   0B / 0B     173
+f42602c57020   docker-image-1         69.20%    527MiB / 6.701GiB     7.68%     134MB / 4.9GB     0B / 0B     208
+79d8da82cd07   docker-registry-1      0.65%     290.4MiB / 6.701GiB   4.23%     5.51MB / 3.65MB   0B / 0B     57
+5891de299610   docker-webui-1         227.74%   712.5MiB / 6.701GiB   10.38%    5.51GB / 6.55GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.81%     100.4MiB / 6.701GiB   1.46%     30.8MB / 130MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   113.74%   549MiB / 6.701GiB     8.00%     398MB / 389MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.66%    492.9MiB / 6.701GiB   7.18%     170MB / 120MB     0B / 0B     214
+==== 03/20/2026 00:00:09 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.80%    438.9MiB / 6.701GiB   6.40%     27.5MB / 16.1MB   0B / 0B     173
+f42602c57020   docker-image-1         63.71%    527MiB / 6.701GiB     7.68%     138MB / 5.03GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.42%     290.4MiB / 6.701GiB   4.23%     5.52MB / 3.66MB   0B / 0B     57
+5891de299610   docker-webui-1         216.66%   712.2MiB / 6.701GiB   10.38%    5.67GB / 6.72GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.77%     100.4MiB / 6.701GiB   1.46%     31.6MB / 134MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   104.59%   549.1MiB / 6.701GiB   8.00%     410MB / 401MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.81%    492.8MiB / 6.701GiB   7.18%     174MB / 123MB     0B / 0B     214
+==== 03/20/2026 00:00:17 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.69%    433.1MiB / 6.701GiB   6.31%     28.3MB / 16.5MB   0B / 0B     173
+f42602c57020   docker-image-1         70.60%    527.2MiB / 6.701GiB   7.68%     141MB / 5.15GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.59%     290.4MiB / 6.701GiB   4.23%     5.54MB / 3.67MB   0B / 0B     57
+5891de299610   docker-webui-1         224.61%   712.4MiB / 6.701GiB   10.38%    5.82GB / 6.91GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.89%     100.4MiB / 6.701GiB   1.46%     32.5MB / 137MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   109.64%   549.1MiB / 6.701GiB   8.00%     421MB / 412MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.75%    492.9MiB / 6.701GiB   7.18%     179MB / 127MB     0B / 0B     214
+==== 03/20/2026 00:00:25 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.15%    433.1MiB / 6.701GiB   6.31%     29MB / 16.9MB     0B / 0B     173
+f42602c57020   docker-image-1         68.76%    527.1MiB / 6.701GiB   7.68%     145MB / 5.3GB     0B / 0B     208
+79d8da82cd07   docker-registry-1      0.48%     290.4MiB / 6.701GiB   4.23%     5.55MB / 3.68MB   0B / 0B     57
+5891de299610   docker-webui-1         222.89%   712.8MiB / 6.701GiB   10.39%    5.96GB / 7.08GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.98%     100.4MiB / 6.701GiB   1.46%     33.2MB / 141MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.89%   549.2MiB / 6.701GiB   8.00%     431MB / 422MB     0B / 0B     67
+d01c7b827732   docker-auth-1          76.19%    492.8MiB / 6.701GiB   7.18%     184MB / 130MB     0B / 0B     214
+==== 03/20/2026 00:00:33 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.23%    439MiB / 6.701GiB     6.40%     29.6MB / 17.2MB   0B / 0B     173
+f42602c57020   docker-image-1         65.72%    527.1MiB / 6.701GiB   7.68%     148MB / 5.41GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.46%     290.4MiB / 6.701GiB   4.23%     5.56MB / 3.69MB   0B / 0B     57
+5891de299610   docker-webui-1         227.61%   712.4MiB / 6.701GiB   10.38%    6.09GB / 7.22GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.10%     100.4MiB / 6.701GiB   1.46%     33.9MB / 143MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.34%   549.1MiB / 6.701GiB   8.00%     440MB / 431MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.37%    498.2MiB / 6.701GiB   7.26%     187MB / 133MB     0B / 0B     214
+==== 03/20/2026 00:00:41 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.67%    439MiB / 6.701GiB     6.40%     30.3MB / 17.6MB   0B / 0B     173
+f42602c57020   docker-image-1         67.53%    527.2MiB / 6.701GiB   7.68%     152MB / 5.54GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.38%     290.4MiB / 6.701GiB   4.23%     5.58MB / 3.7MB    0B / 0B     57
+5891de299610   docker-webui-1         235.43%   712.4MiB / 6.701GiB   10.38%    6.22GB / 7.38GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.80%     100.4MiB / 6.701GiB   1.46%     34.7MB / 147MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   108.74%   549.1MiB / 6.701GiB   8.00%     451MB / 441MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.77%    492.8MiB / 6.701GiB   7.18%     192MB / 136MB     0B / 0B     214
+==== 03/20/2026 00:00:49 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.61%    439MiB / 6.701GiB     6.40%     31MB / 18MB       0B / 0B     173
+f42602c57020   docker-image-1         67.70%    527.2MiB / 6.701GiB   7.68%     155MB / 5.67GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.39%     290.4MiB / 6.701GiB   4.23%     5.59MB / 3.71MB   0B / 0B     57
+5891de299610   docker-webui-1         221.24%   712.6MiB / 6.701GiB   10.38%    6.38GB / 7.58GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.59%     100.4MiB / 6.701GiB   1.46%     35.5MB / 150MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   106.82%   549.2MiB / 6.701GiB   8.00%     462MB / 452MB     0B / 0B     67
+d01c7b827732   docker-auth-1          80.04%    492.8MiB / 6.701GiB   7.18%     196MB / 139MB     0B / 0B     214
+==== 03/20/2026 00:00:57 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.30%    439MiB / 6.701GiB     6.40%     31.7MB / 18.4MB   0B / 0B     173
+f42602c57020   docker-image-1         65.39%    527.2MiB / 6.701GiB   7.68%     158MB / 5.78GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.39%     290.4MiB / 6.701GiB   4.23%     5.61MB / 3.72MB   0B / 0B     57
+5891de299610   docker-webui-1         223.51%   712.9MiB / 6.701GiB   10.39%    6.53GB / 7.75GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.03%     100.4MiB / 6.701GiB   1.46%     36.3MB / 154MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.49%   549.4MiB / 6.701GiB   8.01%     471MB / 461MB     0B / 0B     67
+d01c7b827732   docker-auth-1          72.04%    492.8MiB / 6.701GiB   7.18%     201MB / 142MB     0B / 0B     214
+==== 03/20/2026 00:01:05 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.96%    439.2MiB / 6.701GiB   6.40%     32.3MB / 18.7MB   0B / 0B     173
+f42602c57020   docker-image-1         67.58%    527.3MiB / 6.701GiB   7.68%     162MB / 5.91GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.60%     290.4MiB / 6.701GiB   4.23%     5.62MB / 3.73MB   0B / 0B     57
+5891de299610   docker-webui-1         222.12%   713MiB / 6.701GiB     10.39%    6.65GB / 7.9GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.51%     100.4MiB / 6.701GiB   1.46%     37MB / 157MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   105.20%   549.3MiB / 6.701GiB   8.00%     481MB / 471MB     0B / 0B     67
+d01c7b827732   docker-auth-1          70.23%    493.1MiB / 6.701GiB   7.19%     205MB / 145MB     0B / 0B     214
+==== 03/20/2026 00:01:13 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.08%    439.4MiB / 6.701GiB   6.40%     32.9MB / 19.1MB   0B / 0B     173
+f42602c57020   docker-image-1         70.66%    527.4MiB / 6.701GiB   7.69%     165MB / 6.03GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.60%     290.4MiB / 6.701GiB   4.23%     5.63MB / 3.74MB   0B / 0B     57
+5891de299610   docker-webui-1         238.63%   713.1MiB / 6.701GiB   10.39%    6.79GB / 8.06GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.04%     100.4MiB / 6.701GiB   1.46%     37.7MB / 160MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   112.02%   549.3MiB / 6.701GiB   8.01%     491MB / 480MB     0B / 0B     67
+d01c7b827732   docker-auth-1          72.31%    492.9MiB / 6.701GiB   7.18%     209MB / 148MB     0B / 0B     214
+==== 03/20/2026 00:01:21 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   9.88%     439.4MiB / 6.701GiB   6.40%     33.4MB / 19.4MB   0B / 0B     173
+f42602c57020   docker-image-1         72.74%    527.5MiB / 6.701GiB   7.69%     168MB / 6.14GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.79%     290.4MiB / 6.701GiB   4.23%     5.65MB / 3.75MB   0B / 0B     57
+5891de299610   docker-webui-1         235.08%   713.5MiB / 6.701GiB   10.40%    6.92GB / 8.21GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.51%     100.4MiB / 6.701GiB   1.46%     38.4MB / 163MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   117.40%   549.3MiB / 6.701GiB   8.00%     500MB / 489MB     0B / 0B     67
+d01c7b827732   docker-auth-1          72.43%    492.9MiB / 6.701GiB   7.18%     213MB / 151MB     0B / 0B     214
+==== 03/20/2026 00:01:29 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.08%    433.2MiB / 6.701GiB   6.31%     34MB / 19.7MB     0B / 0B     173
+f42602c57020   docker-image-1         64.88%    527.4MiB / 6.701GiB   7.69%     171MB / 6.25GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.4MiB / 6.701GiB   4.23%     5.66MB / 3.76MB   0B / 0B     57
+5891de299610   docker-webui-1         227.71%   713.1MiB / 6.701GiB   10.39%    7.04GB / 8.36GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.00%     100.4MiB / 6.701GiB   1.46%     39MB / 166MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.84%   549.3MiB / 6.701GiB   8.00%     509MB / 498MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.16%    493.1MiB / 6.701GiB   7.19%     217MB / 153MB     0B / 0B     215
+==== 03/20/2026 00:01:37 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.99%    439.2MiB / 6.701GiB   6.40%     34.7MB / 20.1MB   0B / 0B     173
+f42602c57020   docker-image-1         70.62%    527.5MiB / 6.701GiB   7.69%     175MB / 6.38GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.67%     290.4MiB / 6.701GiB   4.23%     5.68MB / 3.77MB   0B / 0B     57
+5891de299610   docker-webui-1         223.22%   713.3MiB / 6.701GiB   10.39%    7.16GB / 8.5GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.74%     100.4MiB / 6.701GiB   1.46%     39.8MB / 169MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   113.19%   549.3MiB / 6.701GiB   8.00%     519MB / 508MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.83%    498.8MiB / 6.701GiB   7.27%     220MB / 156MB     0B / 0B     215
+==== 03/20/2026 00:01:45 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   17.36%    439.2MiB / 6.701GiB   6.40%     35.4MB / 20.5MB   0B / 0B     173
+f42602c57020   docker-image-1         74.26%    527.6MiB / 6.701GiB   7.69%     178MB / 6.49GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.71%     290.4MiB / 6.701GiB   4.23%     5.69MB / 3.78MB   0B / 0B     57
+5891de299610   docker-webui-1         236.40%   712.8MiB / 6.701GiB   10.39%    7.31GB / 8.68GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.12%     100.4MiB / 6.701GiB   1.46%     40.5MB / 172MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   118.24%   549.7MiB / 6.701GiB   8.01%     529MB / 517MB     0B / 0B     67
+d01c7b827732   docker-auth-1          79.27%    493.2MiB / 6.701GiB   7.19%     225MB / 159MB     0B / 0B     215
+==== 03/20/2026 00:01:52 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.70%    439.3MiB / 6.701GiB   6.40%     36MB / 20.9MB     0B / 0B     173
+f42602c57020   docker-image-1         74.22%    527.5MiB / 6.701GiB   7.69%     181MB / 6.62GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.44%     290.4MiB / 6.701GiB   4.23%     5.7MB / 3.78MB    0B / 0B     57
+5891de299610   docker-webui-1         239.61%   713.2MiB / 6.701GiB   10.39%    7.43GB / 8.82GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.14%     100.4MiB / 6.701GiB   1.46%     41.3MB / 175MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   113.76%   549.5MiB / 6.701GiB   8.01%     539MB / 527MB     0B / 0B     67
+d01c7b827732   docker-auth-1          81.76%    493.2MiB / 6.701GiB   7.19%     229MB / 162MB     0B / 0B     215
+==== 03/20/2026 00:02:00 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.69%    433.3MiB / 6.701GiB   6.31%     36.7MB / 21.2MB   0B / 0B     173
+f42602c57020   docker-image-1         69.48%    527.7MiB / 6.701GiB   7.69%     185MB / 6.75GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.36%     290.4MiB / 6.701GiB   4.23%     5.72MB / 3.79MB   0B / 0B     57
+5891de299610   docker-webui-1         225.54%   713.5MiB / 6.701GiB   10.40%    7.6GB / 9.02GB    0B / 0B     439
+6f48726ffe26   docker-db-1            7.16%     100.4MiB / 6.701GiB   1.46%     42MB / 179MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.43%   549.4MiB / 6.701GiB   8.01%     549MB / 537MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.44%    493.1MiB / 6.701GiB   7.19%     233MB / 165MB     0B / 0B     215
+==== 03/20/2026 00:02:08 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.72%    439.8MiB / 6.701GiB   6.41%     37.4MB / 21.6MB   0B / 0B     173
+f42602c57020   docker-image-1         62.55%    527.6MiB / 6.701GiB   7.69%     188MB / 6.86GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.67%     290.4MiB / 6.701GiB   4.23%     5.73MB / 3.8MB    0B / 0B     57
+5891de299610   docker-webui-1         216.87%   713.3MiB / 6.701GiB   10.39%    7.75GB / 9.2GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.76%     100.4MiB / 6.701GiB   1.46%     42.9MB / 182MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   102.27%   549.4MiB / 6.701GiB   8.01%     560MB / 548MB     0B / 0B     67
+d01c7b827732   docker-auth-1          71.74%    498.8MiB / 6.701GiB   7.27%     238MB / 169MB     0B / 0B     215
+==== 03/20/2026 00:02:16 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.76%    439.9MiB / 6.701GiB   6.41%     38.1MB / 22MB     0B / 0B     173
+f42602c57020   docker-image-1         64.92%    527.9MiB / 6.701GiB   7.69%     191MB / 7GB       0B / 0B     208
+79d8da82cd07   docker-registry-1      0.67%     290.4MiB / 6.701GiB   4.23%     5.75MB / 3.81MB   0B / 0B     57
+5891de299610   docker-webui-1         228.92%   713.2MiB / 6.701GiB   10.39%    7.88GB / 9.35GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.89%     100.4MiB / 6.701GiB   1.46%     43.6MB / 185MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   109.15%   549.7MiB / 6.701GiB   8.01%     570MB / 557MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.29%    499MiB / 6.701GiB     7.27%     242MB / 172MB     0B / 0B     215
+==== 03/20/2026 00:02:23 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.29%    439.8MiB / 6.701GiB   6.41%     38.7MB / 22.3MB   0B / 0B     173
+f42602c57020   docker-image-1         67.08%    527.7MiB / 6.701GiB   7.69%     195MB / 7.12GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.47%     290.4MiB / 6.701GiB   4.23%     5.76MB / 3.82MB   0B / 0B     57
+5891de299610   docker-webui-1         228.97%   713MiB / 6.701GiB     10.39%    8.02GB / 9.51GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.83%     100.4MiB / 6.701GiB   1.46%     44.3MB / 188MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   112.96%   549.5MiB / 6.701GiB   8.01%     580MB / 567MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.63%    498.9MiB / 6.701GiB   7.27%     247MB / 175MB     0B / 0B     215
+==== 03/20/2026 00:02:31 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   10.92%    433.3MiB / 6.701GiB   6.31%     39.4MB / 22.7MB   0B / 0B     173
+f42602c57020   docker-image-1         63.84%    527.7MiB / 6.701GiB   7.69%     198MB / 7.25GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.31%     290.4MiB / 6.701GiB   4.23%     5.77MB / 3.83MB   0B / 0B     57
+5891de299610   docker-webui-1         226.21%   713.3MiB / 6.701GiB   10.39%    8.17GB / 9.69GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.98%     100.4MiB / 6.701GiB   1.46%     45MB / 191MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   108.42%   549.6MiB / 6.701GiB   8.01%     590MB / 577MB     0B / 0B     67
+d01c7b827732   docker-auth-1          76.72%    493.5MiB / 6.701GiB   7.19%     251MB / 178MB     0B / 0B     215
+==== 03/20/2026 00:02:39 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.25%    433.3MiB / 6.701GiB   6.31%     40MB / 23.1MB     0B / 0B     173
+f42602c57020   docker-image-1         69.82%    527.9MiB / 6.701GiB   7.69%     202MB / 7.37GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.86%     290.4MiB / 6.701GiB   4.23%     5.79MB / 3.84MB   0B / 0B     57
+5891de299610   docker-webui-1         283.35%   713.8MiB / 6.701GiB   10.40%    8.28GB / 9.83GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.03%     100.4MiB / 6.701GiB   1.46%     45.8MB / 195MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   113.38%   549.7MiB / 6.701GiB   8.01%     600MB / 586MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.39%    498.7MiB / 6.701GiB   7.27%     255MB / 181MB     0B / 0B     215
+==== 03/20/2026 00:02:47 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   10.63%    439.3MiB / 6.701GiB   6.40%     40.6MB / 23.4MB   0B / 0B     173
+f42602c57020   docker-image-1         63.64%    527.9MiB / 6.701GiB   7.69%     204MB / 7.48GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.63%     290.4MiB / 6.701GiB   4.23%     5.8MB / 3.85MB    0B / 0B     57
+5891de299610   docker-webui-1         216.24%   713.3MiB / 6.701GiB   10.39%    8.42GB / 9.99GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.28%     100.4MiB / 6.701GiB   1.46%     46.4MB / 198MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   98.40%    549.7MiB / 6.701GiB   8.01%     607MB / 594MB     0B / 0B     67
+d01c7b827732   docker-auth-1          64.50%    498.6MiB / 6.701GiB   7.27%     259MB / 183MB     0B / 0B     215
+==== 03/20/2026 00:02:55 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   16.27%    439.5MiB / 6.701GiB   6.40%     41MB / 23.6MB     0B / 0B     173
+f42602c57020   docker-image-1         69.79%    527.8MiB / 6.701GiB   7.69%     206MB / 7.55GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.63%     290.4MiB / 6.701GiB   4.23%     5.82MB / 3.86MB   0B / 0B     57
+5891de299610   docker-webui-1         224.77%   713.8MiB / 6.701GiB   10.40%    8.5GB / 10.1GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.32%     100.4MiB / 6.701GiB   1.46%     46.9MB / 200MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.67%   549.7MiB / 6.701GiB   8.01%     614MB / 601MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.72%    498.6MiB / 6.701GiB   7.27%     261MB / 185MB     0B / 0B     215
+==== 03/20/2026 00:03:06 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.53%    433.4MiB / 6.701GiB   6.32%     41.7MB / 24MB     0B / 0B     173
+f42602c57020   docker-image-1         69.22%    527.9MiB / 6.701GiB   7.69%     210MB / 7.69GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.44%     290.4MiB / 6.701GiB   4.23%     5.83MB / 3.87MB   0B / 0B     57
+5891de299610   docker-webui-1         212.76%   713.9MiB / 6.701GiB   10.40%    8.64GB / 10.2GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.70%     100.4MiB / 6.701GiB   1.46%     47.7MB / 203MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   108.42%   549.9MiB / 6.701GiB   8.01%     625MB / 611MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.17%    493.4MiB / 6.701GiB   7.19%     266MB / 188MB     0B / 0B     215
+==== 03/20/2026 00:03:14 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.42%    439.5MiB / 6.701GiB   6.41%     42.3MB / 24.3MB   0B / 0B     173
+f42602c57020   docker-image-1         72.12%    527.9MiB / 6.701GiB   7.69%     214MB / 7.81GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.42%     290.4MiB / 6.701GiB   4.23%     5.85MB / 3.88MB   0B / 0B     57
+5891de299610   docker-webui-1         232.82%   731.9MiB / 6.701GiB   10.67%    8.8GB / 10.4GB    0B / 0B     439
+6f48726ffe26   docker-db-1            6.95%     100.4MiB / 6.701GiB   1.46%     48.5MB / 207MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   112.88%   549.5MiB / 6.701GiB   8.01%     635MB / 621MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.74%    493.2MiB / 6.701GiB   7.19%     270MB / 191MB     0B / 0B     215
+==== 03/20/2026 00:03:22 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.09%    433.4MiB / 6.701GiB   6.32%     43.1MB / 24.8MB   0B / 0B     173
+f42602c57020   docker-image-1         70.02%    528.1MiB / 6.701GiB   7.70%     217MB / 7.95GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.61%     290.4MiB / 6.701GiB   4.23%     5.86MB / 3.89MB   0B / 0B     57
+5891de299610   docker-webui-1         233.96%   731.9MiB / 6.701GiB   10.67%    8.95GB / 10.6GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.61%     100.4MiB / 6.701GiB   1.46%     49.3MB / 210MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.15%   549.7MiB / 6.701GiB   8.01%     645MB / 630MB     0B / 0B     67
+d01c7b827732   docker-auth-1          79.64%    493.4MiB / 6.701GiB   7.19%     275MB / 195MB     0B / 0B     215
+==== 03/20/2026 00:03:30 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.71%    433.5MiB / 6.701GiB   6.32%     43.8MB / 25.2MB   0B / 0B     173
+f42602c57020   docker-image-1         61.07%    528.4MiB / 6.701GiB   7.70%     221MB / 8.08GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.38%     290.4MiB / 6.701GiB   4.23%     5.88MB / 3.9MB    0B / 0B     57
+5891de299610   docker-webui-1         207.42%   715.4MiB / 6.701GiB   10.42%    9.09GB / 10.8GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.10%     100.4MiB / 6.701GiB   1.46%     50.1MB / 214MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   101.18%   549.7MiB / 6.701GiB   8.01%     657MB / 642MB     0B / 0B     67
+d01c7b827732   docker-auth-1          70.72%    493.3MiB / 6.701GiB   7.19%     280MB / 198MB     0B / 0B     215
+==== 03/20/2026 00:03:38 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   17.02%    433.5MiB / 6.701GiB   6.32%     44.5MB / 25.6MB   0B / 0B     173
+f42602c57020   docker-image-1         73.11%    528.1MiB / 6.701GiB   7.70%     225MB / 8.22GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.41%     290.4MiB / 6.701GiB   4.23%     5.89MB / 3.91MB   0B / 0B     57
+5891de299610   docker-webui-1         238.26%   715.3MiB / 6.701GiB   10.42%    9.25GB / 11GB     0B / 0B     439
+6f48726ffe26   docker-db-1            7.32%     100.4MiB / 6.701GiB   1.46%     50.9MB / 217MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   117.36%   549.7MiB / 6.701GiB   8.01%     667MB / 652MB     0B / 0B     67
+d01c7b827732   docker-auth-1          83.10%    493.3MiB / 6.701GiB   7.19%     284MB / 201MB     0B / 0B     215
+==== 03/20/2026 00:03:46 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.46%    439.4MiB / 6.701GiB   6.40%     45.2MB / 26MB    0B / 0B     173
+f42602c57020   docker-image-1         68.44%    528.2MiB / 6.701GiB   7.70%     228MB / 8.35GB   0B / 0B     208
+79d8da82cd07   docker-registry-1      0.48%     290.4MiB / 6.701GiB   4.23%     5.9MB / 3.92MB   0B / 0B     57
+5891de299610   docker-webui-1         230.31%   715.3MiB / 6.701GiB   10.42%    9.4GB / 11.1GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.80%     100.4MiB / 6.701GiB   1.46%     51.7MB / 221MB   0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.06%   550MiB / 6.701GiB     8.01%     679MB / 663MB    0B / 0B     67
+d01c7b827732   docker-auth-1          75.33%    498.8MiB / 6.701GiB   7.27%     289MB / 204MB    0B / 0B     215
+==== 03/20/2026 00:03:54 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.59%    439.5MiB / 6.701GiB   6.40%     45.9MB / 26.4MB   0B / 0B     173
+f42602c57020   docker-image-1         70.66%    528.2MiB / 6.701GiB   7.70%     232MB / 8.48GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.48%     290.4MiB / 6.701GiB   4.23%     5.92MB / 3.93MB   0B / 0B     57
+5891de299610   docker-webui-1         222.66%   714.9MiB / 6.701GiB   10.42%    9.55GB / 11.3GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.08%     100.4MiB / 6.701GiB   1.46%     52.4MB / 224MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.71%   549.7MiB / 6.701GiB   8.01%     690MB / 674MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.44%    499MiB / 6.701GiB     7.27%     294MB / 208MB     0B / 0B     215
+==== 03/20/2026 00:04:02 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.23%    439.4MiB / 6.701GiB   6.40%     46.6MB / 26.8MB   0B / 0B     173
+f42602c57020   docker-image-1         70.66%    528.3MiB / 6.701GiB   7.70%     235MB / 8.61GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.32%     290.4MiB / 6.701GiB   4.23%     5.93MB / 3.94MB   0B / 0B     57
+5891de299610   docker-webui-1         234.30%   715.4MiB / 6.701GiB   10.42%    9.69GB / 11.5GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.00%     100.4MiB / 6.701GiB   1.46%     53.2MB / 227MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   113.49%   549.9MiB / 6.701GiB   8.01%     700MB / 684MB     0B / 0B     67
+d01c7b827732   docker-auth-1          80.34%    499MiB / 6.701GiB     7.27%     298MB / 211MB     0B / 0B     215
+==== 03/20/2026 00:04:09 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.73%    439.4MiB / 6.701GiB   6.40%     47.2MB / 27.1MB   0B / 0B     173
+f42602c57020   docker-image-1         79.30%    528.5MiB / 6.701GiB   7.70%     238MB / 8.72GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.44%     290.4MiB / 6.701GiB   4.23%     5.95MB / 3.94MB   0B / 0B     57
+5891de299610   docker-webui-1         234.83%   715MiB / 6.701GiB     10.42%    9.82GB / 11.7GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.23%     100.4MiB / 6.701GiB   1.46%     54MB / 230MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   115.30%   549.8MiB / 6.701GiB   8.01%     709MB / 693MB     0B / 0B     67
+d01c7b827732   docker-auth-1          79.50%    493.4MiB / 6.701GiB   7.19%     302MB / 214MB     0B / 0B     215
+==== 03/20/2026 00:04:17 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.19%    439.7MiB / 6.701GiB   6.41%     47.9MB / 27.5MB   0B / 0B     173
+f42602c57020   docker-image-1         67.39%    528.3MiB / 6.701GiB   7.70%     242MB / 8.85GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.71%     290.4MiB / 6.701GiB   4.23%     5.96MB / 3.95MB   0B / 0B     57
+5891de299610   docker-webui-1         223.26%   715.2MiB / 6.701GiB   10.42%    9.96GB / 11.8GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.04%     100.4MiB / 6.701GiB   1.46%     54.7MB / 234MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.81%   549.9MiB / 6.701GiB   8.01%     718MB / 702MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.46%    493.4MiB / 6.701GiB   7.19%     306MB / 217MB     0B / 0B     215
+==== 03/20/2026 00:04:25 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.24%    439.7MiB / 6.701GiB   6.41%     48.6MB / 27.9MB   0B / 0B     173
+f42602c57020   docker-image-1         67.89%    528.4MiB / 6.701GiB   7.70%     245MB / 8.98GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.54%     290.4MiB / 6.701GiB   4.23%     5.98MB / 3.96MB   0B / 0B     57
+5891de299610   docker-webui-1         236.73%   715.4MiB / 6.701GiB   10.42%    10.1GB / 12GB     0B / 0B     439
+6f48726ffe26   docker-db-1            7.23%     100.4MiB / 6.701GiB   1.46%     55.5MB / 237MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.21%   549.9MiB / 6.701GiB   8.01%     730MB / 714MB     0B / 0B     67
+d01c7b827732   docker-auth-1          79.18%    493.5MiB / 6.701GiB   7.19%     311MB / 220MB     0B / 0B     215
+==== 03/20/2026 00:04:33 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.28%    433.7MiB / 6.701GiB   6.32%     49.1MB / 28.2MB   0B / 0B     173
+f42602c57020   docker-image-1         69.71%    528.5MiB / 6.701GiB   7.70%     249MB / 9.1GB     0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.4MiB / 6.701GiB   4.23%     5.99MB / 3.97MB   0B / 0B     57
+5891de299610   docker-webui-1         221.29%   715.6MiB / 6.701GiB   10.43%    10.2GB / 12.1GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.75%     100.4MiB / 6.701GiB   1.46%     56.1MB / 240MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.54%   549.9MiB / 6.701GiB   8.01%     740MB / 723MB     0B / 0B     67
+d01c7b827732   docker-auth-1          69.95%    493.5MiB / 6.701GiB   7.19%     314MB / 222MB     0B / 0B     215
+==== 03/20/2026 00:04:41 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.66%    433.7MiB / 6.701GiB   6.32%     49.8MB / 28.6MB   0B / 0B     173
+f42602c57020   docker-image-1         72.08%    528.6MiB / 6.701GiB   7.70%     252MB / 9.22GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.50%     290.5MiB / 6.701GiB   4.23%     6MB / 3.98MB      0B / 0B     57
+5891de299610   docker-webui-1         234.16%   715.4MiB / 6.701GiB   10.42%    10.4GB / 12.3GB   0B / 0B     438
+6f48726ffe26   docker-db-1            6.93%     100.4MiB / 6.701GiB   1.46%     57MB / 243MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   112.29%   549.9MiB / 6.701GiB   8.01%     749MB / 733MB     0B / 0B     67
+d01c7b827732   docker-auth-1          78.09%    493.6MiB / 6.701GiB   7.19%     319MB / 226MB     0B / 0B     213
+==== 03/20/2026 00:04:48 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   15.42%    439.8MiB / 6.701GiB   6.41%     50.5MB / 29MB     0B / 0B     173
+f42602c57020   docker-image-1         69.04%    528.6MiB / 6.701GiB   7.70%     255MB / 9.33GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.51%     290.5MiB / 6.701GiB   4.23%     6.02MB / 3.99MB   0B / 0B     57
+5891de299610   docker-webui-1         225.13%   715.4MiB / 6.701GiB   10.42%    10.5GB / 12.5GB   0B / 0B     438
+6f48726ffe26   docker-db-1            6.69%     100.4MiB / 6.701GiB   1.46%     57.8MB / 247MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   109.00%   549.9MiB / 6.701GiB   8.01%     760MB / 743MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.69%    498.5MiB / 6.701GiB   7.26%     324MB / 229MB     0B / 0B     213
+==== 03/20/2026 00:04:56 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.23%    439.7MiB / 6.701GiB   6.41%     51.2MB / 29.4MB   0B / 0B     173
+f42602c57020   docker-image-1         69.80%    528.6MiB / 6.701GiB   7.70%     259MB / 9.48GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.51%     290.5MiB / 6.701GiB   4.23%     6.03MB / 4MB      0B / 0B     57
+5891de299610   docker-webui-1         278.79%   715.4MiB / 6.701GiB   10.43%    10.7GB / 12.7GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.05%     100.4MiB / 6.701GiB   1.46%     58.6MB / 250MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.14%   549.8MiB / 6.701GiB   8.01%     769MB / 752MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.41%    498.7MiB / 6.701GiB   7.27%     328MB / 232MB     0B / 0B     213
+==== 03/20/2026 00:05:04 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.26%    433.8MiB / 6.701GiB   6.32%     52MB / 29.8MB     0B / 0B     173
+f42602c57020   docker-image-1         69.01%    528.7MiB / 6.701GiB   7.70%     263MB / 9.62GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.5MiB / 6.701GiB   4.23%     6.05MB / 4.01MB   0B / 0B     57
+5891de299610   docker-webui-1         233.62%   715.8MiB / 6.701GiB   10.43%    10.8GB / 12.8GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.05%     100.4MiB / 6.701GiB   1.46%     59.4MB / 254MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.65%   550MiB / 6.701GiB     8.01%     782MB / 765MB     0B / 0B     67
+d01c7b827732   docker-auth-1          80.30%    493.5MiB / 6.701GiB   7.19%     332MB / 235MB     0B / 0B     214
+==== 03/20/2026 00:05:12 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.54%    433.8MiB / 6.701GiB   6.32%     52.6MB / 30.2MB   0B / 0B     173
+f42602c57020   docker-image-1         70.40%    528.8MiB / 6.701GiB   7.71%     266MB / 9.74GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.81%     290.5MiB / 6.701GiB   4.23%     6.06MB / 4.02MB   0B / 0B     57
+5891de299610   docker-webui-1         230.20%   715.2MiB / 6.701GiB   10.42%    11GB / 13GB       0B / 0B     439
+6f48726ffe26   docker-db-1            7.07%     100.4MiB / 6.701GiB   1.46%     60.2MB / 257MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.77%   549.9MiB / 6.701GiB   8.01%     792MB / 774MB     0B / 0B     67
+d01c7b827732   docker-auth-1          79.72%    493.5MiB / 6.701GiB   7.19%     337MB / 238MB     0B / 0B     214
+==== 03/20/2026 00:05:19 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.15%    433.9MiB / 6.701GiB   6.32%     53.3MB / 30.6MB   0B / 0B     173
+f42602c57020   docker-image-1         71.43%    528.8MiB / 6.701GiB   7.71%     270MB / 9.88GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.50%     290.5MiB / 6.701GiB   4.23%     6.07MB / 4.03MB   0B / 0B     57
+5891de299610   docker-webui-1         225.68%   715.7MiB / 6.701GiB   10.43%    11.1GB / 13.2GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.10%     100.4MiB / 6.701GiB   1.46%     61MB / 261MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   109.91%   550.2MiB / 6.701GiB   8.02%     803MB / 785MB     0B / 0B     67
+d01c7b827732   docker-auth-1          76.77%    498.8MiB / 6.701GiB   7.27%     342MB / 242MB     0B / 0B     214
+==== 03/20/2026 00:05:27 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.70%    439.8MiB / 6.701GiB   6.41%     54MB / 31MB       0B / 0B     173
+f42602c57020   docker-image-1         67.77%    528.9MiB / 6.701GiB   7.71%     273MB / 10GB      0B / 0B     208
+79d8da82cd07   docker-registry-1      0.43%     290.5MiB / 6.701GiB   4.23%     6.09MB / 4.04MB   0B / 0B     57
+5891de299610   docker-webui-1         221.62%   715.7MiB / 6.701GiB   10.43%    11.3GB / 13.4GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.82%     100.4MiB / 6.701GiB   1.46%     61.8MB / 264MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.01%   549.9MiB / 6.701GiB   8.01%     814MB / 796MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.12%    498.8MiB / 6.701GiB   7.27%     346MB / 245MB     0B / 0B     214
+==== 03/20/2026 00:05:35 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.78%    439.8MiB / 6.701GiB   6.41%     54.8MB / 31.4MB   0B / 0B     173
+f42602c57020   docker-image-1         64.64%    530.1MiB / 6.701GiB   7.72%     277MB / 10.1GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.37%     290.5MiB / 6.701GiB   4.23%     6.1MB / 4.05MB    0B / 0B     57
+5891de299610   docker-webui-1         226.49%   715.6MiB / 6.701GiB   10.43%    11.4GB / 13.6GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.97%     100.4MiB / 6.701GiB   1.46%     62.6MB / 268MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.04%   549.9MiB / 6.701GiB   8.01%     825MB / 807MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.26%    498.8MiB / 6.701GiB   7.27%     351MB / 248MB     0B / 0B     213
+==== 03/20/2026 00:05:43 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.53%    439.8MiB / 6.701GiB   6.41%     55.4MB / 31.7MB   0B / 0B     173
+f42602c57020   docker-image-1         63.22%    530.1MiB / 6.701GiB   7.73%     281MB / 10.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.5MiB / 6.701GiB   4.23%     6.11MB / 4.05MB   0B / 0B     57
+5891de299610   docker-webui-1         224.35%   716.1MiB / 6.701GiB   10.44%    11.6GB / 13.7GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.60%     100.4MiB / 6.701GiB   1.46%     63.3MB / 271MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   103.75%   550.1MiB / 6.701GiB   8.02%     835MB / 816MB     0B / 0B     67
+d01c7b827732   docker-auth-1          66.28%    493.6MiB / 6.701GiB   7.19%     355MB / 251MB     0B / 0B     214
+==== 03/20/2026 00:05:51 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.05%    433.9MiB / 6.701GiB   6.32%     55.9MB / 32MB     0B / 0B     173
+f42602c57020   docker-image-1         69.02%    530.2MiB / 6.701GiB   7.73%     283MB / 10.4GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.5MiB / 6.701GiB   4.23%     6.13MB / 4.06MB   0B / 0B     57
+5891de299610   docker-webui-1         227.13%   715.5MiB / 6.701GiB   10.43%    11.7GB / 13.8GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.68%     100.4MiB / 6.701GiB   1.46%     63.9MB / 274MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.39%   550.3MiB / 6.701GiB   8.02%     843MB / 824MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.27%    493.6MiB / 6.701GiB   7.19%     359MB / 254MB     0B / 0B     214
+==== 03/20/2026 00:05:58 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.97%    438.8MiB / 6.701GiB   6.39%     56.5MB / 32.3MB   0B / 0B     173
+f42602c57020   docker-image-1         70.38%    530.3MiB / 6.701GiB   7.73%     286MB / 10.5GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.5MiB / 6.701GiB   4.23%     6.14MB / 4.07MB   0B / 0B     57
+5891de299610   docker-webui-1         224.02%   715.8MiB / 6.701GiB   10.43%    11.8GB / 14GB     0B / 0B     439
+6f48726ffe26   docker-db-1            6.69%     100.4MiB / 6.701GiB   1.46%     64.5MB / 276MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   107.17%   550.3MiB / 6.701GiB   8.02%     852MB / 833MB     0B / 0B     67
+d01c7b827732   docker-auth-1          72.56%    499.3MiB / 6.701GiB   7.28%     363MB / 256MB     0B / 0B     214
+==== 03/20/2026 00:06:06 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.37%    438.8MiB / 6.701GiB   6.39%     57.1MB / 32.7MB   0B / 0B     173
+f42602c57020   docker-image-1         74.79%    530.4MiB / 6.701GiB   7.73%     289MB / 10.6GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.28%     290.5MiB / 6.701GiB   4.23%     6.16MB / 4.08MB   0B / 0B     57
+5891de299610   docker-webui-1         224.56%   715.9MiB / 6.701GiB   10.43%    11.9GB / 14.1GB   0B / 0B     438
+6f48726ffe26   docker-db-1            6.96%     100.4MiB / 6.701GiB   1.46%     65.3MB / 279MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.28%   550.3MiB / 6.701GiB   8.02%     861MB / 841MB     0B / 0B     67
+d01c7b827732   docker-auth-1          73.93%    499.3MiB / 6.701GiB   7.28%     366MB / 259MB     0B / 0B     213
+==== 03/20/2026 00:06:14 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.13%    438.8MiB / 6.701GiB   6.39%     57.7MB / 33MB     0B / 0B     173
+f42602c57020   docker-image-1         71.01%    530.3MiB / 6.701GiB   7.73%     293MB / 10.7GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.37%     290.5MiB / 6.701GiB   4.23%     6.17MB / 4.09MB   0B / 0B     57
+5891de299610   docker-webui-1         232.03%   715.7MiB / 6.701GiB   10.43%    12GB / 14.3GB     0B / 0B     438
+6f48726ffe26   docker-db-1            6.96%     100.4MiB / 6.701GiB   1.46%     66MB / 282MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.22%   550.4MiB / 6.701GiB   8.02%     870MB / 851MB     0B / 0B     67
+d01c7b827732   docker-auth-1          80.07%    499.4MiB / 6.701GiB   7.28%     370MB / 262MB     0B / 0B     213
+==== 03/20/2026 00:06:22 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.70%    438.8MiB / 6.701GiB   6.39%     58.3MB / 33.4MB   0B / 0B     173
+f42602c57020   docker-image-1         68.76%    530.4MiB / 6.701GiB   7.73%     296MB / 10.8GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.35%     290.5MiB / 6.701GiB   4.23%     6.18MB / 4.1MB    0B / 0B     57
+5891de299610   docker-webui-1         231.47%   715.4MiB / 6.701GiB   10.43%    12.2GB / 14.5GB   0B / 0B     438
+6f48726ffe26   docker-db-1            6.71%     100.4MiB / 6.701GiB   1.46%     66.7MB / 286MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.92%   550.4MiB / 6.701GiB   8.02%     879MB / 860MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.45%    499.5MiB / 6.701GiB   7.28%     374MB / 265MB     0B / 0B     213
+==== 03/20/2026 00:06:29 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.31%    438.9MiB / 6.701GiB   6.40%     59MB / 33.8MB     0B / 0B     173
+f42602c57020   docker-image-1         61.75%    530.4MiB / 6.701GiB   7.73%     299MB / 11GB      0B / 0B     208
+79d8da82cd07   docker-registry-1      0.40%     290.5MiB / 6.701GiB   4.23%     6.2MB / 4.11MB    0B / 0B     57
+5891de299610   docker-webui-1         218.84%   715.8MiB / 6.701GiB   10.43%    12.3GB / 14.6GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.79%     100.4MiB / 6.701GiB   1.46%     67.5MB / 289MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   101.91%   550.4MiB / 6.701GiB   8.02%     890MB / 870MB     0B / 0B     67
+d01c7b827732   docker-auth-1          70.02%    493.7MiB / 6.701GiB   7.19%     379MB / 268MB     0B / 0B     213
+==== 03/20/2026 00:06:37 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   16.95%    438.9MiB / 6.701GiB   6.40%     59.7MB / 34.1MB   0B / 0B     173
+f42602c57020   docker-image-1         73.06%    530.4MiB / 6.701GiB   7.73%     303MB / 11.1GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.44%     290.5MiB / 6.701GiB   4.23%     6.21MB / 4.12MB   0B / 0B     57
+5891de299610   docker-webui-1         238.27%   715.6MiB / 6.701GiB   10.43%    12.5GB / 14.8GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.77%     100.4MiB / 6.701GiB   1.46%     68.2MB / 292MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   117.36%   550.5MiB / 6.701GiB   8.02%     899MB / 879MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.89%    493.7MiB / 6.701GiB   7.20%     383MB / 271MB     0B / 0B     213
+==== 03/20/2026 00:06:45 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.36%    438.9MiB / 6.701GiB   6.40%     60.4MB / 34.5MB   0B / 0B     173
+f42602c57020   docker-image-1         68.34%    530.4MiB / 6.701GiB   7.73%     306MB / 11.2GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.37%     290.5MiB / 6.701GiB   4.23%     6.23MB / 4.13MB   0B / 0B     57
+5891de299610   docker-webui-1         263.71%   716MiB / 6.701GiB     10.43%    12.6GB / 15GB     0B / 0B     439
+6f48726ffe26   docker-db-1            7.00%     100.4MiB / 6.701GiB   1.46%     69MB / 296MB      0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   109.71%   550.6MiB / 6.701GiB   8.02%     909MB / 889MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.82%    493.9MiB / 6.701GiB   7.20%     387MB / 274MB     0B / 0B     213
+==== 03/20/2026 00:06:53 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   12.56%    434.1MiB / 6.701GiB   6.33%     61MB / 34.8MB     0B / 0B     173
+f42602c57020   docker-image-1         69.51%    530.5MiB / 6.701GiB   7.73%     310MB / 11.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.61%     290.5MiB / 6.701GiB   4.23%     6.24MB / 4.14MB   0B / 0B     57
+5891de299610   docker-webui-1         227.83%   720.4MiB / 6.701GiB   10.50%    12.8GB / 15.1GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.90%     100.4MiB / 6.701GiB   1.46%     69.8MB / 299MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.13%   550.5MiB / 6.701GiB   8.02%     921MB / 901MB     0B / 0B     67
+d01c7b827732   docker-auth-1          76.41%    499.4MiB / 6.701GiB   7.28%     392MB / 277MB     0B / 0B     213
+==== 03/20/2026 00:07:01 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.98%    440.1MiB / 6.701GiB   6.41%     61.7MB / 35.2MB   0B / 0B     173
+f42602c57020   docker-image-1         68.88%    530.5MiB / 6.701GiB   7.73%     313MB / 11.5GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.53%     290.5MiB / 6.701GiB   4.23%     6.25MB / 4.15MB   0B / 0B     57
+5891de299610   docker-webui-1         223.85%   720.3MiB / 6.701GiB   10.50%    12.9GB / 15.3GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.94%     100.4MiB / 6.701GiB   1.46%     70.5MB / 302MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   108.62%   550.6MiB / 6.701GiB   8.02%     931MB / 910MB     0B / 0B     67
+d01c7b827732   docker-auth-1          74.82%    499.5MiB / 6.701GiB   7.28%     396MB / 280MB     0B / 0B     212
+==== 03/20/2026 00:07:09 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.81%    440.1MiB / 6.701GiB   6.41%     62.4MB / 35.7MB   0B / 0B     173
+f42602c57020   docker-image-1         66.82%    530.5MiB / 6.701GiB   7.73%     317MB / 11.6GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.44%     290.5MiB / 6.701GiB   4.23%     6.27MB / 4.16MB   0B / 0B     57
+5891de299610   docker-webui-1         220.31%   720.6MiB / 6.701GiB   10.50%    13.1GB / 15.5GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.99%     100.4MiB / 6.701GiB   1.46%     71.4MB / 306MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   114.47%   550.5MiB / 6.701GiB   8.02%     942MB / 922MB     0B / 0B     67
+d01c7b827732   docker-auth-1          75.61%    494MiB / 6.701GiB     7.20%     401MB / 284MB     0B / 0B     212
+==== 03/20/2026 00:07:19 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.55%    434.2MiB / 6.701GiB   6.33%     63.1MB / 36MB     0B / 0B     173
+f42602c57020   docker-image-1         68.70%    530.6MiB / 6.701GiB   7.73%     320MB / 11.7GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.37%     290.5MiB / 6.701GiB   4.23%     6.29MB / 4.17MB   0B / 0B     57
+5891de299610   docker-webui-1         224.20%   720.3MiB / 6.701GiB   10.50%    13.2GB / 15.7GB   0B / 0B     439
+6f48726ffe26   docker-db-1            7.03%     100.4MiB / 6.701GiB   1.46%     72.1MB / 309MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.43%   550.5MiB / 6.701GiB   8.02%     952MB / 931MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.11%    493.8MiB / 6.701GiB   7.20%     405MB / 287MB     0B / 0B     212
+==== 03/20/2026 00:07:27 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   11.65%    434.2MiB / 6.701GiB   6.33%     63.8MB / 36.4MB   0B / 0B     173
+f42602c57020   docker-image-1         66.05%    530.6MiB / 6.701GiB   7.73%     324MB / 11.8GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.38%     290.5MiB / 6.701GiB   4.23%     6.3MB / 4.18MB    0B / 0B     57
+5891de299610   docker-webui-1         223.27%   720.7MiB / 6.701GiB   10.50%    13.3GB / 15.8GB   0B / 0B     439
+6f48726ffe26   docker-db-1            6.84%     100.4MiB / 6.701GiB   1.46%     72.9MB / 312MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   111.29%   550.6MiB / 6.701GiB   8.02%     963MB / 941MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.97%    493.8MiB / 6.701GiB   7.20%     409MB / 289MB     0B / 0B     212
+==== 03/20/2026 00:07:35 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.28%    440.2MiB / 6.701GiB   6.41%     64.4MB / 36.8MB   0B / 0B     173
+f42602c57020   docker-image-1         70.95%    530.7MiB / 6.701GiB   7.73%     327MB / 12GB      0B / 0B     208
+79d8da82cd07   docker-registry-1      0.54%     290.5MiB / 6.701GiB   4.23%     6.31MB / 4.19MB   0B / 0B     57
+5891de299610   docker-webui-1         234.17%   720.5MiB / 6.701GiB   10.50%    13.5GB / 16GB     0B / 0B     439
+6f48726ffe26   docker-db-1            7.28%     100.4MiB / 6.701GiB   1.46%     73.7MB / 316MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   117.01%   550.7MiB / 6.701GiB   8.02%     973MB / 952MB     0B / 0B     67
+d01c7b827732   docker-auth-1          78.92%    494.1MiB / 6.701GiB   7.20%     414MB / 293MB     0B / 0B     213
+==== 03/20/2026 00:07:43 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   14.20%    440.2MiB / 6.701GiB   6.42%     64.9MB / 37.1MB   0B / 0B     173
+f42602c57020   docker-image-1         65.13%    530.7MiB / 6.701GiB   7.73%     330MB / 12.1GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      1.00%     290.5MiB / 6.701GiB   4.23%     6.33MB / 4.2MB    0B / 0B     57
+5891de299610   docker-webui-1         210.40%   720.4MiB / 6.701GiB   10.50%    13.6GB / 16.1GB   0B / 0B     438
+6f48726ffe26   docker-db-1            5.88%     100.4MiB / 6.701GiB   1.46%     74.3MB / 318MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   109.93%   550.7MiB / 6.701GiB   8.03%     981MB / 959MB     0B / 0B     67
+d01c7b827732   docker-auth-1          63.68%    494.1MiB / 6.701GiB   7.20%     417MB / 295MB     0B / 0B     214
+==== 03/20/2026 00:07:51 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   13.76%    440.3MiB / 6.701GiB   6.42%     65.6MB / 37.5MB   0B / 0B     173
+f42602c57020   docker-image-1         70.91%    530.8MiB / 6.701GiB   7.73%     333MB / 12.2GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.61%     290.5MiB / 6.701GiB   4.23%     6.34MB / 4.21MB   0B / 0B     57
+5891de299610   docker-webui-1         222.56%   720.4MiB / 6.701GiB   10.50%    13.7GB / 16.3GB   0B / 0B     438
+6f48726ffe26   docker-db-1            6.95%     100.4MiB / 6.701GiB   1.46%     74.9MB / 321MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   110.80%   550.9MiB / 6.701GiB   8.03%     989MB / 967MB     0B / 0B     67
+d01c7b827732   docker-auth-1          77.12%    494.3MiB / 6.701GiB   7.20%     422MB / 298MB     0B / 0B     214
+==== 03/20/2026 00:07:59 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.84%     435.6MiB / 6.701GiB   6.35%     66MB / 37.6MB     0B / 0B     173
+f42602c57020   docker-image-1         0.60%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.33%     290.5MiB / 6.701GiB   4.23%     6.36MB / 4.21MB   0B / 0B     57
+5891de299610   docker-webui-1         1.88%     720.1MiB / 6.701GiB   10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.10%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.52%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     67
+d01c7b827732   docker-auth-1          0.62%     494MiB / 6.701GiB     7.20%     424MB / 300MB     0B / 0B     214
+==== 03/20/2026 00:08:07 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.00%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.69%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.52%     290.5MiB / 6.701GiB   4.23%     6.37MB / 4.22MB   0B / 0B     57
+5891de299610   docker-webui-1         2.35%     720.1MiB / 6.701GiB   10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.09%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.16%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     67
+d01c7b827732   docker-auth-1          0.63%     499.5MiB / 6.701GiB   7.28%     424MB / 300MB     0B / 0B     214
+==== 03/20/2026 00:08:14 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.36%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.19%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.24%     290.5MiB / 6.701GiB   4.23%     6.38MB / 4.23MB   0B / 0B     57
+5891de299610   docker-webui-1         0.90%     720.1MiB / 6.701GiB   10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.16%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     67
+d01c7b827732   docker-auth-1          0.94%     499.5MiB / 6.701GiB   7.28%     424MB / 300MB     0B / 0B     214
+==== 03/20/2026 00:08:22 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.86%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.22%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.26%     290.5MiB / 6.701GiB   4.23%     6.4MB / 4.24MB    0B / 0B     57
+5891de299610   docker-webui-1         0.82%     720MiB / 6.701GiB     10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.07%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   1.09%     550.7MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     68
+d01c7b827732   docker-auth-1          0.76%     499.5MiB / 6.701GiB   7.28%     424MB / 300MB     0B / 0B     214
+==== 03/20/2026 00:08:29 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.13%     440.6MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.64%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.34%     290.5MiB / 6.701GiB   4.23%     6.41MB / 4.25MB   0B / 0B     57
+5891de299610   docker-webui-1         0.93%     720.1MiB / 6.701GiB   10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.57%     550.7MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     68
+d01c7b827732   docker-auth-1          0.89%     499.5MiB / 6.701GiB   7.28%     424MB / 300MB     0B / 0B     214
+==== 03/20/2026 00:08:37 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.05%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.31%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.33%     290.5MiB / 6.701GiB   4.23%     6.42MB / 4.26MB   0B / 0B     57
+5891de299610   docker-webui-1         0.43%     720MiB / 6.701GiB     10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.20%     550.7MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     68
+d01c7b827732   docker-auth-1          0.69%     493.9MiB / 6.701GiB   7.20%     424MB / 300MB     0B / 0B     213
+==== 03/20/2026 00:08:45 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.69%     440.7MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.01%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.59%     290.5MiB / 6.701GiB   4.23%     6.44MB / 4.27MB   0B / 0B     57
+5891de299610   docker-webui-1         3.34%     720MiB / 6.701GiB     10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.10%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.25%     550.7MiB / 6.701GiB   8.03%     996MB / 974MB     0B / 0B     68
+d01c7b827732   docker-auth-1          1.16%     493.9MiB / 6.701GiB   7.20%     424MB / 300MB     0B / 0B     213
+==== 03/20/2026 00:08:53 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.69%     440.7MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.19%     530.8MiB / 6.701GiB   7.74%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.35%     290.5MiB / 6.701GiB   4.23%     6.45MB / 4.28MB   0B / 0B     57
+5891de299610   docker-webui-1         1.89%     720MiB / 6.701GiB     10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.44%     550.7MiB / 6.701GiB   8.03%     996MB / 974MB     0B / 0B     68
+d01c7b827732   docker-auth-1          0.28%     493.8MiB / 6.701GiB   7.20%     424MB / 300MB     0B / 0B     212
+==== 03/20/2026 00:09:00 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.71%     434.3MiB / 6.701GiB   6.33%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.65%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.36%     290.5MiB / 6.701GiB   4.23%     6.47MB / 4.29MB   0B / 0B     57
+5891de299610   docker-webui-1         2.44%     719.8MiB / 6.701GiB   10.49%    13.8GB / 16.4GB   0B / 0B     435
+6f48726ffe26   docker-db-1            0.07%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.16%     550.8MiB / 6.701GiB   8.03%     996MB / 974MB     0B / 0B     68
+d01c7b827732   docker-auth-1          0.62%     493.7MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     211
+==== 03/20/2026 00:09:08 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.31%     440.3MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.58%     530.9MiB / 6.701GiB   7.74%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.43%     290.5MiB / 6.701GiB   4.23%     6.48MB / 4.3MB    0B / 0B     57
+5891de299610   docker-webui-1         2.03%     719.4MiB / 6.701GiB   10.48%    13.8GB / 16.4GB   0B / 0B     431
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.18%     550.5MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          1.57%     498.9MiB / 6.701GiB   7.27%     424MB / 300MB     0B / 0B     210
+==== 03/20/2026 00:09:16 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.24%     440.3MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.84%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.37%     290.5MiB / 6.701GiB   4.23%     6.49MB / 4.3MB    0B / 0B     57
+5891de299610   docker-webui-1         0.82%     719.4MiB / 6.701GiB   10.48%    13.8GB / 16.4GB   0B / 0B     431
+6f48726ffe26   docker-db-1            0.09%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.56%     550.5MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.82%     499MiB / 6.701GiB     7.27%     424MB / 300MB     0B / 0B     210
+==== 03/20/2026 00:09:23 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.19%     440.3MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.71%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.40%     290.5MiB / 6.701GiB   4.23%     6.51MB / 4.31MB   0B / 0B     57
+5891de299610   docker-webui-1         0.91%     734.9MiB / 6.701GiB   10.71%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.09%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.57%     550.5MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.28%     498.7MiB / 6.701GiB   7.27%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:09:31 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.77%     440.3MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.61%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.42%     290.5MiB / 6.701GiB   4.23%     6.52MB / 4.32MB   0B / 0B     57
+5891de299610   docker-webui-1         0.49%     734.9MiB / 6.701GiB   10.71%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.11%     550.5MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.27%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:09:39 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.67%     440.4MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.20%     530.8MiB / 6.701GiB   7.74%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.36%     290.5MiB / 6.701GiB   4.23%     6.53MB / 4.33MB   0B / 0B     57
+5891de299610   docker-webui-1         0.34%     735.5MiB / 6.701GiB   10.72%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.10%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.19%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          1.13%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:09:47 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.27%     440.6MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.56%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.79%     290.5MiB / 6.701GiB   4.23%     6.55MB / 4.34MB   0B / 0B     57
+5891de299610   docker-webui-1         4.52%     735.5MiB / 6.701GiB   10.72%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.16%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.69%     550.5MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.52%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:09:55 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   5.89%     440.6MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.90%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.70%     290.5MiB / 6.701GiB   4.23%     6.56MB / 4.35MB   0B / 0B     57
+5891de299610   docker-webui-1         3.59%     735.5MiB / 6.701GiB   10.72%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.14%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.26%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.38%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:03 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.76%     440.6MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.91%     530.8MiB / 6.701GiB   7.74%     335MB / 12.3GB    0B / 0B     207
+79d8da82cd07   docker-registry-1      0.63%     290.5MiB / 6.701GiB   4.23%     6.58MB / 4.36MB   0B / 0B     57
+5891de299610   docker-webui-1         2.37%     717.9MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.16%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.32%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.38%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:11 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.85%     435.6MiB / 6.701GiB   6.35%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.60%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     206
+79d8da82cd07   docker-registry-1      0.36%     290.5MiB / 6.701GiB   4.23%     6.59MB / 4.37MB   0B / 0B     57
+5891de299610   docker-webui-1         1.88%     717.9MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.11%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.13%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.63%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:19 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.65%     440.4MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.65%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     206
+79d8da82cd07   docker-registry-1      0.41%     290.5MiB / 6.701GiB   4.23%     6.61MB / 4.38MB   0B / 0B     57
+5891de299610   docker-webui-1         1.84%     717.9MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.13%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.62%     498.3MiB / 6.701GiB   7.26%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:27 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.84%     440.4MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.76%     530.7MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     206
+79d8da82cd07   docker-registry-1      0.43%     290.7MiB / 6.701GiB   4.24%     6.62MB / 4.39MB   0B / 0B     57
+5891de299610   docker-webui-1         0.54%     717.9MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     413
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.71%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.90%     498.3MiB / 6.701GiB   7.26%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:34 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.40%     440.4MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.18%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     206
+79d8da82cd07   docker-registry-1      0.51%     290.5MiB / 6.701GiB   4.23%     6.63MB / 4.4MB    0B / 0B     57
+5891de299610   docker-webui-1         0.39%     717.5MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     409
+6f48726ffe26   docker-db-1            0.09%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.11%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.97%     498.3MiB / 6.701GiB   7.26%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:41 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.75%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.69%     530.8MiB / 6.701GiB   7.74%     335MB / 12.3GB    0B / 0B     206
+79d8da82cd07   docker-registry-1      0.37%     290.5MiB / 6.701GiB   4.23%     6.65MB / 4.41MB   0B / 0B     57
+5891de299610   docker-webui-1         1.35%     717.6MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     409
+6f48726ffe26   docker-db-1            0.09%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.39%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.61%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:49 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   0.60%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         6.79%     531.2MiB / 6.701GiB   7.74%     335MB / 12.3GB    0B / 0B     206
+79d8da82cd07   docker-registry-1      0.39%     290.5MiB / 6.701GiB   4.23%     6.66MB / 4.41MB   0B / 0B     57
+5891de299610   docker-webui-1         0.88%     717.5MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     409
+6f48726ffe26   docker-db-1            0.09%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.18%     550.7MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          0.67%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205
+==== 03/20/2026 00:10:57 ====
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.41%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         1.13%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     206
+79d8da82cd07   docker-registry-1      0.45%     290.5MiB / 6.701GiB   4.23%     6.67MB / 4.42MB   0B / 0B     57
+5891de299610   docker-webui-1         7.24%     717.7MiB / 6.701GiB   10.46%    13.8GB / 16.4GB   0B / 0B     409
+6f48726ffe26   docker-db-1            0.07%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.19%     550.7MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     66
+d01c7b827732   docker-auth-1          1.13%     493.3MiB / 6.701GiB   7.19%     424MB / 300MB     0B / 0B     205

@@ -1,0 +1,5 @@
+run_name,users,ramp_up_s,jtl_file,notes 
+smoke_browse_5users,5,10,results\smoke\smoke_browse_5users.jtl,0 percent errors and stable response times 
+browse_10users,10,20,results\baseline\browse_10users.jtl, 
+browse_25users,25,20,results\baseline\browse_25users.jtl, 
+browse_50users,50,30,results\baseline\browse_50users.jtl, 

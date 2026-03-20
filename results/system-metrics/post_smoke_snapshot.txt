@@ -1,0 +1,9 @@
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.36%     440.5MiB / 6.701GiB   6.42%     66MB / 37.7MB     0B / 0B     173
+f42602c57020   docker-image-1         0.19%     530.8MiB / 6.701GiB   7.73%     335MB / 12.3GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.24%     290.5MiB / 6.701GiB   4.23%     6.38MB / 4.23MB   0B / 0B     57
+5891de299610   docker-webui-1         0.90%     720.1MiB / 6.701GiB   10.49%    13.8GB / 16.4GB   0B / 0B     438
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     75.4MB / 323MB    0B / 0B     35
+cafd2a1b5aaa   docker-persistence-1   0.16%     550.6MiB / 6.701GiB   8.02%     996MB / 974MB     0B / 0B     67
+d01c7b827732   docker-auth-1          0.94%     499.5MiB / 6.701GiB   7.28%     424MB / 300MB     0B / 0B     214

@@ -1,0 +1,27 @@
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.03%     439.1MiB / 6.701GiB   6.40%     88MB / 49.9MB     0B / 0B     173
+f42602c57020   docker-image-1         5.02%     529.6MiB / 6.701GiB   7.72%     448MB / 16.5GB    0B / 0B     208
+79d8da82cd07   docker-registry-1      0.47%     286.7MiB / 6.701GiB   4.18%     7.16MB / 4.74MB   0B / 0B     57
+5891de299610   docker-webui-1         2.03%     1.009GiB / 6.701GiB   15.06%    18.6GB / 22GB     0B / 0B     447
+6f48726ffe26   docker-db-1            0.08%     100.4MiB / 6.701GiB   1.46%     101MB / 435MB     0B / 0B     38
+cafd2a1b5aaa   docker-persistence-1   0.50%     551.5MiB / 6.701GiB   8.04%     1.34GB / 1.3GB    0B / 0B     67
+d01c7b827732   docker-auth-1          0.70%     488.7MiB / 6.701GiB   7.12%     568MB / 400MB     0B / 0B     215
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.20%     445.8MiB / 6.701GiB   6.50%     120MB / 67.1MB    0B / 0B     174
+f42602c57020   docker-image-1         0.61%     622MiB / 6.701GiB     9.06%     612MB / 22.7GB    0B / 0B     223
+79d8da82cd07   docker-registry-1      0.35%     285MiB / 6.701GiB     4.15%     7.71MB / 5.1MB    0B / 0B     57
+5891de299610   docker-webui-1         0.81%     1.031GiB / 6.701GiB   15.38%    25.6GB / 30.3GB   0B / 0B     471
+6f48726ffe26   docker-db-1            0.07%     101.1MiB / 6.701GiB   1.47%     142MB / 608MB     0B / 0B     50
+cafd2a1b5aaa   docker-persistence-1   0.12%     642.7MiB / 6.701GiB   9.37%     1.84GB / 1.79GB   0B / 0B     82
+d01c7b827732   docker-auth-1          0.75%     570.5MiB / 6.701GiB   8.31%     776MB / 547MB     0B / 0B     229
+failed to get console mode for stdout: The handle is invalid.
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+44c90cf72561   docker-recommender-1   1.40%     504.4MiB / 6.701GiB   7.35%     177MB / 97.6MB    0B / 0B     184
+f42602c57020   docker-image-1         1.62%     691.6MiB / 6.701GiB   10.08%    903MB / 33.7GB    0B / 0B     248
+79d8da82cd07   docker-registry-1      0.39%     281.3MiB / 6.701GiB   4.10%     8.59MB / 5.68MB   0B / 0B     57
+5891de299610   docker-webui-1         1.91%     1.289GiB / 6.701GiB   19.23%    37.9GB / 44.8GB   0B / 0B     525
+6f48726ffe26   docker-db-1            0.08%     99.5MiB / 6.701GiB    1.45%     213MB / 907MB     0B / 0B     50
+cafd2a1b5aaa   docker-persistence-1   0.19%     697.6MiB / 6.701GiB   10.17%    2.73GB / 2.64GB   0B / 0B     107
+d01c7b827732   docker-auth-1          1.17%     635.2MiB / 6.701GiB   9.26%     1.15GB / 808MB    0B / 0B     255
