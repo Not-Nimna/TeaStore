@@ -3,9 +3,6 @@ package tools.descartes.teastore.kieker.rabbitmq;
 import java.io.File;
 import java.io.IOException;
 
-import org.apache.log4j.Level;
-import org.apache.log4j.Logger;
-
 import kieker.common.configuration.Configuration;
 import kieker.common.record.IMonitoringRecord;
 import kieker.monitoring.writer.filesystem.FileWriter;
@@ -19,8 +16,6 @@ public class FileWriterDaemon implements Runnable {
 
 	@Override
 	public void run() {
-		Logger logger = Logger.getLogger("FileWriterDaemon");
-		logger.setLevel(Level.INFO);
 		new File("apache-tomcat-8.5.24/webapps/logs").mkdir();
 		new File("apache-tomcat-8.5.24/webapps/logs").mkdirs();
 		Configuration configuration = new Configuration();

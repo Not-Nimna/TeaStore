@@ -15,3 +15,7 @@ interfaces/tools.descartes.teastore.entities/.classpath
 /e2e-tests/cypress/screenshots
 target/
 jmeter/
+*.jtl
+
+jmeter.log
+
