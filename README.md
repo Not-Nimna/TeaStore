@@ -20,6 +20,21 @@ Check out our [Getting Started Guide](GET_STARTED.md) for information on how to 
       2. [OpenTracing with Kubernetes and Istio](GET_STARTED.md#222-opentracing-with-kubernetes-and-istio)
 3. [Building and Customizing the TeaStore](GET_STARTED.md#3-building-and-customizing-the-teastore)
 
+## Report Artifacts
+
+For a reproducible performance study, this checkout now uses a simple artifact
+layout:
+
+- `workloads/` for workload documentation and report-facing JMeter plans
+- `scripts/` for automation entry points
+- `analysis/` for analysis and plotting outputs
+- `results/raw/` for `.jtl`, CSV, and other raw measurement artifacts
+- `results/figures/` for report PNGs
+- `results/tables/` for comparison tables and summary CSVs
+
+The runnable implementations still live in `tools/`, but the directories above
+are the stable places to cite in the report.
+
 ## Cite Us
 
 The TeaStore was first published in [Proceedings of the 26th IEEE International Symposium on the Modelling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS2018)](https://ieeexplore.ieee.org/document/8526888). If you use the TeaStore please cite the following publication:
