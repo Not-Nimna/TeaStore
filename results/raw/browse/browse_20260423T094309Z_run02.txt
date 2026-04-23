@@ -1,0 +1,11 @@
+workload=browse
+run=2
+host=10.0.0.252
+port=8080
+users=10
+ramp_up=1
+duration=300
+started_utc=20260423T094824Z
+plan=C:\Users\nimna\Desktop\uni\533\TeaStore\examples\jmeter\teastore_browse_nogui.jmx
+jmeter_home=C:\Users\nimna\apache-jmeter-5.6.3
+jtl_file=C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\browse\browse_20260423T094309Z_run02.jtl

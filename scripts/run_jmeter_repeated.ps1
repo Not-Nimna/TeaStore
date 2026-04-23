@@ -25,7 +25,7 @@ param(
     [string]$OutputDir = ".\\results",
     [int]$PauseSeconds = 10,
     [switch]$Summary,
-    [string]$PythonExe = "py",
+    [string]$PythonExe = "",
     [string]$SummarizeScript = ""
 )
 
@@ -45,6 +45,25 @@ function Resolve-RequiredPath {
     catch {
         throw "$Label not found: $PathValue"
     }
+}
+
+function Resolve-PythonCommand {
+    param(
+        [string]$RequestedCommand
+    )
+
+    if ($RequestedCommand) {
+        return $RequestedCommand
+    }
+
+    foreach ($candidate in @("py", "python", "python3")) {
+        $command = Get-Command $candidate -ErrorAction SilentlyContinue
+        if ($command -and -not $command.Source.Contains("WindowsApps")) {
+            return $candidate
+        }
+    }
+
+    throw "No usable Python command was found. Re-run with -PythonExe <path-to-python.exe>."
 }
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -124,7 +143,8 @@ for ($run = 1; $run -le $Runs; $run++) {
 
 if ($Summary) {
     $summarizePath = Resolve-RequiredPath -PathValue $SummarizeScript -Label "Summarize script"
-    & $PythonExe $summarizePath @($jtlFiles.ToArray())
+    $pythonCommand = Resolve-PythonCommand -RequestedCommand $PythonExe
+    & $pythonCommand $summarizePath @($jtlFiles.ToArray())
     if ($LASTEXITCODE -ne 0) {
         throw "Summary command failed with exit code $LASTEXITCODE"
     }
