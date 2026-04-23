@@ -1,0 +1,5 @@
+file,samples,failures,error_rate_pct,duration_s,throughput_rps,avg_ms,min_ms,p50_ms,p95_ms,p99_ms,max_ms
+results_100users.jtl,16758703,16758703,100.00,299.99,55864.39,1.16,0,0,3,6,314
+results_10users.jtl,240057,0,0.00,872.97,274.99,34.68,1,20,116,190,1441
+results_20users.jtl,8543069,8527930,99.82,1393.32,6131.47,0.82,0,0,1,1,18823
+results_50users.jtl,17460871,17460871,100.00,299.74,58253.58,0.67,0,0,2,3,310

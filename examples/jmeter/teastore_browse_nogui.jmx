@@ -28,6 +28,11 @@
             <stringProp name="Argument.value">${__P(rampUp)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
+          <elementProp name="duration_seconds" elementType="Argument">
+            <stringProp name="Argument.name">duration_seconds</stringProp>
+            <stringProp name="Argument.value">${__P(duration,300)}</stringProp>
+            <stringProp name="Argument.metadata">=</stringProp>
+          </elementProp>
         </collectionProp>
       </elementProp>
       <stringProp name="TestPlan.user_define_classpath"></stringProp>
@@ -41,8 +46,8 @@
         </elementProp>
         <stringProp name="ThreadGroup.num_threads">${num_user}</stringProp>
         <stringProp name="ThreadGroup.ramp_time">${ramp_up}</stringProp>
-        <boolProp name="ThreadGroup.scheduler">false</boolProp>
-        <stringProp name="ThreadGroup.duration"></stringProp>
+        <boolProp name="ThreadGroup.scheduler">true</boolProp>
+        <stringProp name="ThreadGroup.duration">${duration_seconds}</stringProp>
         <stringProp name="ThreadGroup.delay"></stringProp>
       </ThreadGroup>
       <hashTree>
