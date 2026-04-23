@@ -26,6 +26,7 @@ param(
     [int]$PauseSeconds = 10,
     [switch]$Summary,
     [string]$PythonExe = "",
+    [string]$JavaExe = "",
     [string]$SummarizeScript = ""
 )
 
@@ -66,6 +67,45 @@ function Resolve-PythonCommand {
     throw "No usable Python command was found. Re-run with -PythonExe <path-to-python.exe>."
 }
 
+function Resolve-JavaCommand {
+    param(
+        [string]$RequestedCommand
+    )
+
+    if ($RequestedCommand) {
+        return $RequestedCommand
+    }
+
+    $javaCommand = Get-Command java -ErrorAction SilentlyContinue
+    if ($javaCommand -and -not $javaCommand.Source.Contains("WindowsApps")) {
+        return "java"
+    }
+
+    if ($env:JAVA_HOME) {
+        $javaFromEnv = Join-Path $env:JAVA_HOME "bin\\java.exe"
+        if (Test-Path -LiteralPath $javaFromEnv) {
+            return $javaFromEnv
+        }
+    }
+
+    $searchRoots = @(
+        "C:\Program Files\Eclipse Adoptium",
+        "C:\Program Files\Java",
+        (Join-Path $HOME "java")
+    )
+
+    foreach ($root in $searchRoots) {
+        if (Test-Path -LiteralPath $root) {
+            $javaExe = Get-ChildItem -Path $root -Recurse -Filter java.exe -ErrorAction SilentlyContinue | Select-Object -First 1
+            if ($javaExe) {
+                return $javaExe.FullName
+            }
+        }
+    }
+
+    throw "No usable Java command was found. Re-run with -JavaExe <path-to-java.exe> or set JAVA_HOME."
+}
+
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 if (-not $SummarizeScript) {
     $SummarizeScript = Join-Path $scriptDir "summarize_jtl.py"
@@ -74,6 +114,7 @@ if (-not $SummarizeScript) {
 $planPath = Resolve-RequiredPath -PathValue $Plan -Label "Plan"
 $jmeterHomePath = Resolve-RequiredPath -PathValue $JMeterHome -Label "JMeter home"
 $jmeterJar = Join-Path $jmeterHomePath "bin\\ApacheJMeter.jar"
+$javaCommand = Resolve-JavaCommand -RequestedCommand $JavaExe
 
 if (-not (Test-Path -LiteralPath $jmeterJar)) {
     throw "JMeter jar not found: $jmeterJar"
@@ -112,7 +153,7 @@ for ($run = 1; $run -le $Runs; $run++) {
 
     Push-Location $jmeterHomePath
     try {
-        & java -jar "bin/ApacheJMeter.jar" `
+        & $javaCommand -jar "bin/ApacheJMeter.jar" `
             -t $planPath `
             -Jhostname $HostName `
             -Jport $Port `

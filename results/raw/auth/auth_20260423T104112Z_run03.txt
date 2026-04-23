@@ -1,0 +1,11 @@
+workload=auth
+run=3
+host=10.0.0.252
+port=8080
+users=10
+ramp_up=1
+duration=300
+started_utc=20260423T105140Z
+plan=C:\Users\nimna\Desktop\uni\533\TeaStore\examples\jmeter\teastore_login_nogui.jmx
+jmeter_home=C:\Users\nimna\apache-jmeter-5.6.3
+jtl_file=C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\auth\auth_20260423T104112Z_run03.jtl
