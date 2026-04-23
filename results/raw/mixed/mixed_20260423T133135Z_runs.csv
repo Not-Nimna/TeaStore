@@ -1,1 +1,6 @@
 run,workload,host,port,users,ramp_up,duration,started_utc,jtl_file,meta_file
+1,mixed,10.0.0.252,8080,10,1,300,20260423T133135Z,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run01.jtl,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run01.txt
+2,mixed,10.0.0.252,8080,10,1,300,20260423T133649Z,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run02.jtl,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run02.txt
+3,mixed,10.0.0.252,8080,10,1,300,20260423T134203Z,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run03.jtl,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run03.txt
+4,mixed,10.0.0.252,8080,10,1,300,20260423T134716Z,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run04.jtl,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run04.txt
+5,mixed,10.0.0.252,8080,10,1,300,20260423T135229Z,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run05.jtl,C:\Users\nimna\Desktop\uni\533\TeaStore\results\raw\mixed\mixed_20260423T133135Z_run05.txt
